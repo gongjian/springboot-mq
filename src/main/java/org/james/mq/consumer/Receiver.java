@@ -1,4 +1,4 @@
-package org.james.mq.listener;
+package org.james.mq.consumer;
 
 import java.io.IOException;
 
